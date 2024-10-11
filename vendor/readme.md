@@ -1,0 +1,1 @@
+bagian vendor fungsi
